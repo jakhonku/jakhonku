@@ -40,7 +40,7 @@ I am a **Software Engineer** and **AI Researcher** based in Uzbekistan. My passi
 ### 📬 Get in touch:
 
 <p align="left">
-  <a href="https://t.me/Jakhonde" target="_blank">
+  <a href="https://t.me/Jakhonku" target="_blank">
     <img src="https://img.shields.io/badge/TELEGRAM-@Jakhonde-35B6B4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="tel:+998998303802">
