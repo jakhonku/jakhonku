@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=35B6B4&height=200&section=header&text=Jakhongir%20Bakhtiyarov&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20MUSIC%20EXPERTS%20|%20FULL-STACK%20ENGINEER&descAlignY=55&descSize=20" width="100%" />
+</p>
 
-<!--
-**jakhonku/jakhonku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! 👋
 
-Here are some ideas to get you started:
+I am a **Software Engineer** and **AI Researcher** based in Uzbekistan. My passion lies in building intelligent systems that merge **Music Technology** with cutting-edge **Artificial Intelligence**. I specialize in developing generative audio models like **MusicGen** and architecting high-performance web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎹 **AI Music Expert** — Fine-tuning large-scale audio models.
+- 🚀 **Full-Stack Developer** — Creating sleek and scalable enterprise solutions.
+- 🔬 **Researcher** — Exploring the digitalization of traditional musical heritage.
+
+---
+
+### I am good at a few things:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-E0F7F7?style=for-the-badge&logo=python&logoColor=35B6B4" />
+  <img src="https://img.shields.io/badge/MusicGen-E0F7F7?style=for-the-badge&logo=meta&logoColor=35B6B4" />
+  <img src="https://img.shields.io/badge/PyTorch-E0F7F7?style=for-the-badge&logo=pytorch&logoColor=35B6B4" />
+  <img src="https://img.shields.io/badge/FastAPI-E0F7F7?style=for-the-badge&logo=fastapi&logoColor=35B6B4" />
+  <img src="https://img.shields.io/badge/JavaScript-E0F7F7?style=for-the-badge&logo=javascript&logoColor=35B6B4" />
+  <img src="https://img.shields.io/badge/React-E0F7F7?style=for-the-badge&logo=react&logoColor=35B6B4" />
+  <img src="https://img.shields.io/badge/Node.js-E0F7F7?style=for-the-badge&logo=nodedotjs&logoColor=35B6B4" />
+  <img src="https://img.shields.io/badge/Docker-E0F7F7?style=for-the-badge&logo=docker&logoColor=35B6B4" />
+</p>
+
+---
+
+### 📈 Current Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jakhongirbakhtiyarov0130-cloud&show_icons=true&theme=cyanical&hide_border=true&title_color=35B6B4&icon_color=35B6B4&text_color=555" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongirbakhtiyarov0130-cloud&layout=compact&theme=cyanical&hide_border=true&title_color=35B6B4&text_color=555" width="45%" />
+</p>
+
+---
+
+### 📬 Get in touch:
+
+<p align="left">
+  <a href="https://t.me/Jakhonde" target="_blank">
+    <img src="https://img.shields.io/badge/TELEGRAM-@Jakhonde-35B6B4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="tel:+998998303802">
+    <img src="https://img.shields.io/badge/CALL-+998998303802-161B22?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=35B6B4&height=20&section=footer" width="100%" />
+</p>
