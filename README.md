@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=35B6B4&height=320&section=header&text=Jakhongir%20Bakhtiyarov&fontSize=65&animation=fadeIn&fontAlignY=35&desc=AI%20MUSIC%20EXPERTS%20|%20FULL-STACK%20ENGINEER&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=35B6B4&height=320&section=header&text=Jakhongir%20Bakhtiyarov&fontSize=65&animation=fadeIn&fontAlignY=33&desc=AI%20MUSIC%20EXPERTS%20|%20FULL-STACK%20ENGINEER&descAlignY=62&descSize=20" width="100%" />
 </p>
 
 # Hello! 👋
