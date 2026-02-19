@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=35B6B4&height=200&section=header&text=Jakhongir%20Bakhtiyarov&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20MUSIC%20EXPERTS%20|%20FULL-STACK%20ENGINEER&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=35B6B4&height=280&section=header&text=Jakhongir%20Bakhtiyarov&fontSize=65&animation=fadeIn&fontAlignY=38&desc=AI%20MUSIC%20EXPERTS%20|%20FULL-STACK%20ENGINEER&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 # Hello! 👋
@@ -23,15 +23,6 @@ I am a **Software Engineer** and **AI Researcher** based in Uzbekistan. My passi
   <img src="https://img.shields.io/badge/React-E0F7F7?style=for-the-badge&logo=react&logoColor=35B6B4" />
   <img src="https://img.shields.io/badge/Node.js-E0F7F7?style=for-the-badge&logo=nodedotjs&logoColor=35B6B4" />
   <img src="https://img.shields.io/badge/Docker-E0F7F7?style=for-the-badge&logo=docker&logoColor=35B6B4" />
-</p>
-
----
-
-### 📈 Current Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakhongirbakhtiyarov0130-cloud&show_icons=true&theme=cyanical&hide_border=true&title_color=35B6B4&icon_color=35B6B4&text_color=555" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakhongirbakhtiyarov0130-cloud&layout=compact&theme=cyanical&hide_border=true&title_color=35B6B4&text_color=555" width="45%" />
 </p>
 
 ---
