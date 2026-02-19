@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=35B6B4&height=320&section=header&text=Jakhongir%20Bakhtiyarov&fontSize=65&animation=fadeIn&fontAlignY=33&desc=AI%20MUSIC%20EXPERTS%20|%20FULL-STACK%20ENGINEER&descAlignY=62&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=35B6B4&height=280&section=header&text=Jakhongir%20Bakhtiyarov&fontSize=60&animation=fadeIn&fontAlignY=35&desc=AI%20MUSIC%20EXPERTS%20|%20FULL-STACK%20ENGINEER&descAlignY=60&descSize=20&fontColor=FFFFFF&descColor=FFFFFF" width="100%" />
 </p>
 
 # Hello! 👋
@@ -40,7 +40,7 @@ I am a **Software Engineer** and **AI Researcher** based in Uzbekistan. My passi
 ### 📬 Get in touch:
 
 <p align="left">
-  <a href="https://t.me/Jakhonku" target="_blank">
+  <a href="https://t.me/Jakhonde" target="_blank">
     <img src="https://img.shields.io/badge/TELEGRAM-@Jakhonde-35B6B4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="tel:+998998303802">
