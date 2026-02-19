@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=35B6B4&height=280&section=header&text=Jakhongir%20Bakhtiyarov&fontSize=65&animation=fadeIn&fontAlignY=38&desc=AI%20MUSIC%20EXPERTS%20|%20FULL-STACK%20ENGINEER&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=35B6B4&height=320&section=header&text=Jakhongir%20Bakhtiyarov&fontSize=65&animation=fadeIn&fontAlignY=35&desc=AI%20MUSIC%20EXPERTS%20|%20FULL-STACK%20ENGINEER&descAlignY=58&descSize=20" width="100%" />
 </p>
 
 # Hello! 👋
@@ -23,6 +23,16 @@ I am a **Software Engineer** and **AI Researcher** based in Uzbekistan. My passi
   <img src="https://img.shields.io/badge/React-E0F7F7?style=for-the-badge&logo=react&logoColor=35B6B4" />
   <img src="https://img.shields.io/badge/Node.js-E0F7F7?style=for-the-badge&logo=nodedotjs&logoColor=35B6B4" />
   <img src="https://img.shields.io/badge/Docker-E0F7F7?style=for-the-badge&logo=docker&logoColor=35B6B4" />
+</p>
+
+---
+
+### 📺 Featured Video
+
+<p align="center">
+  <a href="https://youtu.be/8iSu--z8-6s" target="_blank">
+    <img src="https://img.youtube.com/vi/8iSu--z8-6s/0.jpg" alt="Watch the video" width="70%" style="border-radius: 10px; border: 2px solid #35B6B4;" />
+  </a>
 </p>
 
 ---
